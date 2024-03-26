@@ -1,19 +1,19 @@
-<mxfile host="app.diagrams.net" modified="2024-03-26T22:54:06.820Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:124.0) Gecko/20100101 Firefox/124.0" etag="eO5HZBObUY6ZnvcbCY67" version="24.2.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-26T23:05:24.566Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:124.0) Gecko/20100101 Firefox/124.0" etag="-fUACh5haBFGnWb0Qjb-" version="24.2.0" type="github">
   <diagram name="Página-1" id="BJ0FDYV7WeU5AChwLW6k">
     <mxGraphModel dx="1364" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="r8cadCt1gOrm9D4LQtw2-33" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;Usúario&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;div&gt;+ Email - String&lt;/div&gt;&lt;div&gt;+ Senha - String&lt;/div&gt;&lt;div&gt;+ CriarNota - Nota&lt;/div&gt;&lt;div&gt;+ CriarComentario - Comentario&lt;/div&gt;&lt;div&gt;+ RemoverNota - Nota&lt;/div&gt;&lt;div&gt;+ RemoverComentario - Comentario&lt;/div&gt;&lt;div&gt;+ Notificar - notificação&lt;br&gt;&lt;/div&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="r8cadCt1gOrm9D4LQtw2-33" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;Usúario&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;div&gt;&amp;nbsp;Email - String&lt;/div&gt;&lt;div&gt;&amp;nbsp;Senha - String&lt;/div&gt;&lt;div&gt;&amp;nbsp;CriarNota - Nota&lt;/div&gt;&lt;div&gt;&amp;nbsp;CriarComentario - Comentario&lt;/div&gt;&lt;div&gt;&amp;nbsp;RemoverNota - Nota&lt;/div&gt;&lt;div&gt;&amp;nbsp;RemoverComentario - Comentario&lt;/div&gt;&lt;div&gt;&amp;nbsp;Notificar - notificação&lt;br&gt;&lt;/div&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="50" y="120" width="200" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="r8cadCt1gOrm9D4LQtw2-35" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;Nota&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;div&gt;+ ConteúdoNota - string&lt;/div&gt;&lt;div&gt;+ DataCriação - date&lt;br&gt;&lt;/div&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="r8cadCt1gOrm9D4LQtw2-35" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;Nota&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;div&gt;&amp;nbsp;ConteúdoNota - string&lt;/div&gt;&lt;div&gt;&amp;nbsp;DataCriação - date&lt;br&gt;&lt;/div&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="630" y="210" width="160" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="r8cadCt1gOrm9D4LQtw2-36" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;Blog&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;+ Titulo - INT&lt;div&gt;+ DataCriacao - date&lt;/div&gt;&lt;div&gt;&lt;div&gt;+ CriarBlog - blog&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="r8cadCt1gOrm9D4LQtw2-36" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;Blog&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&amp;nbsp;Titulo - INT&lt;div&gt;&amp;nbsp;DataCriacao - date&lt;/div&gt;&lt;div&gt;&lt;div&gt;&amp;nbsp;CriarBlog - blog&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="380" y="140" width="140" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="r8cadCt1gOrm9D4LQtw2-37" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;Comentario&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;div&gt;+ Comentario - String&lt;/div&gt;&lt;div&gt;+ DataCriacao - Date&lt;br&gt;&lt;/div&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="r8cadCt1gOrm9D4LQtw2-37" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;Comentario&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;div&gt;&amp;nbsp;Comentario - String&lt;/div&gt;&lt;div&gt;&amp;nbsp;DataCriacao - Date&lt;br&gt;&lt;/div&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="430" y="390" width="160" height="120" as="geometry" />
         </mxCell>
         <mxCell id="r8cadCt1gOrm9D4LQtw2-44" value="TEM" style="endArrow=open;html=1;endSize=12;startArrow=diamondThin;startSize=14;startFill=0;edgeStyle=orthogonalEdgeStyle;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="r8cadCt1gOrm9D4LQtw2-33" target="r8cadCt1gOrm9D4LQtw2-36">
@@ -38,7 +38,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="r8cadCt1gOrm9D4LQtw2-48" value="0..n" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=top;" connectable="0" vertex="1" parent="r8cadCt1gOrm9D4LQtw2-47">
+        <mxCell id="r8cadCt1gOrm9D4LQtw2-48" value="1" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=top;" connectable="0" vertex="1" parent="r8cadCt1gOrm9D4LQtw2-47">
           <mxGeometry x="-1" relative="1" as="geometry" />
         </mxCell>
         <mxCell id="r8cadCt1gOrm9D4LQtw2-49" value="0..n" style="edgeLabel;resizable=0;html=1;align=right;verticalAlign=top;" connectable="0" vertex="1" parent="r8cadCt1gOrm9D4LQtw2-47">
@@ -56,7 +56,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="r8cadCt1gOrm9D4LQtw2-51" value="0..n" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=top;" connectable="0" vertex="1" parent="r8cadCt1gOrm9D4LQtw2-50">
+        <mxCell id="r8cadCt1gOrm9D4LQtw2-51" value="1" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=top;" connectable="0" vertex="1" parent="r8cadCt1gOrm9D4LQtw2-50">
           <mxGeometry x="-1" relative="1" as="geometry">
             <mxPoint x="8" as="offset" />
           </mxGeometry>
@@ -65,6 +65,18 @@
           <mxGeometry x="1" relative="1" as="geometry">
             <mxPoint x="40" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="r8cadCt1gOrm9D4LQtw2-54" value="FAZ" style="endArrow=open;html=1;endSize=12;startArrow=diamondThin;startSize=14;startFill=0;edgeStyle=orthogonalEdgeStyle;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="r8cadCt1gOrm9D4LQtw2-33" target="r8cadCt1gOrm9D4LQtw2-37">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="210" y="380" as="sourcePoint" />
+            <mxPoint x="370" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r8cadCt1gOrm9D4LQtw2-55" value="1" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=top;" connectable="0" vertex="1" parent="r8cadCt1gOrm9D4LQtw2-54">
+          <mxGeometry x="-1" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r8cadCt1gOrm9D4LQtw2-56" value="0..n" style="edgeLabel;resizable=0;html=1;align=right;verticalAlign=top;" connectable="0" vertex="1" parent="r8cadCt1gOrm9D4LQtw2-54">
+          <mxGeometry x="1" relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
